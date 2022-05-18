@@ -34,7 +34,7 @@ export default function Application({ children }: any) {
 
   return (
     <>
-      <div className="h-5/6 bg-bg-0 w-9/12 drop-shadow-2xl rounded-3xl relative">
+      <div className="xl:h-5/6 2xl:h-5/6 sm:h-full bg-bg-0 xl:w-9/12 2xl:w-9/12 md:w-full sm:w-full drop-shadow-2xl rounded-3xl relative">
         <Popover
           as="header"
           className={({ open }) =>
@@ -242,7 +242,7 @@ export default function Application({ children }: any) {
             </main>
           </div>
         </div>
-        <div className="hidden xl:block xl:col-span-3 bg-bg-1 absolute h-full top-0 right-0 w-3/12 rounded-r-3xl">
+        <div className=" xl:block xl:col-span-3 bg-bg-1 absolute h-full top-0 right-0 w-3/12 rounded-r-3xl">
           <div className="sticky top-8 space-y- mt-32 px-8">
             <RightBar />
           </div>

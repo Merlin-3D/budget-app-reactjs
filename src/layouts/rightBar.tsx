@@ -66,7 +66,7 @@ export default function RightBar() {
   }, [form]);
 
   return (
-    <div>
+    <>
       <div>
         <div className="flex flex-row justify-between">
           <h1 className="text-black text-2xl font-bold pb-4">Accounts</h1>
@@ -114,7 +114,7 @@ export default function RightBar() {
           </div>
         </div>
 
-        <div className="flex flex-col overflow-auto scrollbar-hidden h-80">
+        <div className="flex flex-col overflow-auto scrollbar-hidden xl:h-80 md:h-96">
           <div className="flex flex-row py-4">
             <div className="flex items-center justify-center h-12 w-16 rounded-full bg-purple-500">
               <BsShop className="text-white text-2xl" />
@@ -316,6 +316,6 @@ export default function RightBar() {
           })}
         </div>
       </ModalRight>
-    </div>
+    </>
   );
 }
