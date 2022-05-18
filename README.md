@@ -1,8 +1,32 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+
+<img src="Screenshot 2022-05-18 083936.png" alt="My budget screen"/>
+
+## Finance
+
 <img src="Screenshot 2022-05-18 084015.png" alt="My budget screen"/>
-<img src="./Screenshot 2022-05-18 084015.png" alt="My budget screen"/>
+
+## Options
+
+<img src="Screenshot 2022-05-18 084037.png" alt="My budget screen"/>
+
+## Options - Account
+
+<img src="Screenshot 2022-05-18 084037.png" alt="My budget screen"/>
+
+## Options - Categories
+
+<img src="Screenshot 2022-05-18 084137.png" alt="My budget screen"/>
+
+## Add Account
+
+<img src="Screenshot 2022-05-18 084156.png" alt="My budget screen"/>
+
+## Select Icon
+
+<img src="Screenshot 2022-05-18 084219.png" alt="My budget screen"/>
 
 ## Available Scripts
 
